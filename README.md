@@ -21,4 +21,4 @@ Proof from chat screenshots where I shared my source with some people.
 If you are pasting this into your cheat/project, please mention me there. Don't bed rude paster pwease 😘
 
 ## Credits
- - opa334 - siging exploit from ![TrollStore](https://github.com/opa334/TrollStore/tree/main/Exploits/fastPathSign) and ![ChOma](https://github.com/opa334/ChOma)
+ - opa334 - signing exploit from ![TrollStore](https://github.com/opa334/TrollStore/tree/main/Exploits/fastPathSign) and ![ChOma](https://github.com/opa334/ChOma)
