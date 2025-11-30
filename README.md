@@ -4,7 +4,8 @@ Since my friend andr released the source code of ![his iOS injector](https://git
 
 ## Background
 This project is basically a combination of opainject and ChOma, created long before andr published his injection method, which is better than mine. Furthermore, this app doesn't work with TrollStore because it uses setgid/setuid privilege escalation, which is prohibited in the SpringBoard app. The code is messy, but I don't care, since I don't even use it.
-If you want to make a really good cheat, then I strongly recommend to use ![this](https://github.com/andrd3v/titanium) source instead of mine. This project will never get further updates!
+
+**If you want to make a really good cheat, then I strongly recommend to use ![this](https://github.com/andrd3v/titanium) source instead of mine. This project will never get further updates!**
 
 
 ## Proofs
